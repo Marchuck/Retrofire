@@ -3,7 +3,8 @@ Kotlin MPP Module
 =================
 
 
-An example project of an Kotlin MPP = Multiplatform project for Android and iOS
+An example project of an Kotlin-Native with sample network layer abstraction - Retrofire
+Retrofire has Android(OkHttp) and iOS implementation(Alamofire)
 
 LICENSE
 =======
